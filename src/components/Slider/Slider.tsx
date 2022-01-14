@@ -33,11 +33,15 @@ const Slider = ({ slides }: { slides: SlidesTypes }) => {
             <h2
               className="text-white font-workSans font-bold text-lg lg:text-2xl"
               ref={slideHeader}
-            ></h2>
+            >
+              &nbsp;
+            </h2>
             <h2
               className="text-white ml-8 font-workSans font-light text-sm lg:text-xl"
               ref={slideSubHeader}
-            ></h2>
+            >
+              &nbsp;
+            </h2>
             <div className="w-3/4 md:w-1/2 border-b-4 border-secondaryWhite h-1 mt-4">
               <span className="block w-24 h-1 bg-green"></span>
             </div>
