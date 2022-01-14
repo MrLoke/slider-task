@@ -1,3 +1,5 @@
+## [LIVE DEMO](https://slider-task-mrloke.netlify.app/)
+
 ## Tech Stack
 
 - React.js v.17.0.2
